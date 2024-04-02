@@ -343,7 +343,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 248 | [When does a Sprint conclude?](#when-does-a-sprint-conclude) |
 
 
-### You have just been hired by a company new to Scrum. Your management has assigned you to be the Scrum Master of six new Scrum Teams. These teams will build one product. Select two conditions you should strive for in this scenario. (choose two)
+### You are implementing a software as a service (SaaS) ASP.NET Core web service that will run as an Azure Web App. The web service will use an on-premises SQL Server database for storage. The web service also includes a WebJob that processes data updates. Four customers will use the web service. Each instance of the WebJob processes data for a single customer and must run as a singleton instance. Each deployment must be tested by using deployment slots prior to serving production data. Azure costs must be minimized. Azure resources must be located in an isolated network. You need to configure the App Service plan for the Web App. How should you configure the App Service plan?
 
 - [ ] There should be six Product Owners, one for each Scrum Team.
 - [ ] There should be six Product Owners, reporting to a chief Product Owner.
